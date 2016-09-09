@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- permission group name must be one of followed list:
+android.permission-group.CALENDAR
+android.permission-group.CAMERA
+android.permission-group.CONTACTS
+android.permission-group.LOCATION
+android.permission-group.MICROPHONE
+android.permission-group.PHONE
+android.permission-group.SENSORS
+android.permission-group.SMS
+android.permission-group.STORAGE
+-->
+<DefaultPermissionPolicy>
+    <Package name="com.fyusion.sdk">
+        <PermissionGroup name="android.permission-group.CAMERA" grant="true" systemFixed="false" />
+        <PermissionGroup name="android.permission-group.PHONE" grant="true" systemFixed="false" />
+        <PermissionGroup name="android.permission-group.LOCATION" grant="true" systemFixed="false" />
+        <PermissionGroup name="android.permission-group.STORAGE" grant="true" systemFixed="false" />
+        <PermissionGroup name="android.permission-group.CONTACTS" grant="true" systemFixed="false" />
+    </Package>
+</DefaultPermissionPolicy>

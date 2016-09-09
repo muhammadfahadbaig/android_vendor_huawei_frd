@@ -1,0 +1,9 @@
+/data/dataapp/baidusearch/baidusearch.apk
+/data/dataapp/360mse/360mse.apk
+/data/dataapp/aimeituan/aimeituan.apk
+/system/preloadapks/FyuseSDK/FyuseSDK.apk,priv
+/data/dataapp/WPS/WPS.apk
+/data/dataapp/Letv/Letv.apk
+/data/dataapp/com.cmcc.wallet/com.cmcc.wallet.apk
+/data/dataapp/MM/MM.apk
+/data/dataapp/MMPlugKvSafeCenter/MMPlugKvSafeCenter.apk

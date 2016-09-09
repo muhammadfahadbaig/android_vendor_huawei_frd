@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+PowerGenie config file
+This xml file is used for ASH protecting foreign apps by name
+-->
+<list>
+    <array type="protect_apps" version="1.0">
+        <item>com.sankuai.meituan.meituanwaimaibusiness</item>
+        <item>com.baidu.lbs.commercialism</item>
+        <item>me.ele.napos</item>
+        <item>com.alipay.m.portal</item>
+        <item>com.dada.mobile.android</item>
+        <item>com.sankuai.meituan.dispatch.crowdsource</item>
+        <item>me.ele.crowdsource</item>
+    </array>
+</list>
+
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tms_config>
+    <telecoms_operator>1000</telecoms_operator>
+
+	<bookmarklist>
+		<bookmark>
+			<title>MM网</title>
+			<url>http://a.10086.cn/j/6061/</url>
+		</bookmark>
+		<bookmark>
+			<title>手机阅读</title>
+			<url>http://wap.cmread.com</url>
+		</bookmark>
+		<bookmark>
+			<title>手机游戏</title>
+			<url>http://g.10086.cn</url>
+		</bookmark>
+		<bookmark>
+			<title>手机视频</title>
+			<url>http://wap.cmvideo.cn</url>
+		</bookmark>
+		<bookmark>
+			<title>无线音乐</title>
+			<url>http://m.10086.cn/wireless/html5/index.html</url>
+		</bookmark>
+		<bookmark>
+			<title>冲浪网址</title>
+			<url>http://go.10086.cn/?coc=6GG2GGRq</url>
+		</bookmark>
+		<bookmark>
+			<title>飞信首页</title>
+			<url>http://f.10086.cn</url>
+		</bookmark>
+		<bookmark>
+			<title>139邮箱</title>
+			<url>http://mail.10086.cn</url>
+		</bookmark>
+		<bookmark>
+			<title>12580</title>
+			<url>http://12580wap.10086.cn/?pid=PCM002942000</url>
+		</bookmark>
+	</bookmarklist>
+
+	<home_page>
+		<name>和冲浪</name>
+		<url>http://go.10086.cn/rd/go/dh/</url>
+	</home_page>
+
+	<ua_profile>
+		<key>X-Wap-Profile</key>
+		<value></value>
+	</ua_profile>
+</tms_config>

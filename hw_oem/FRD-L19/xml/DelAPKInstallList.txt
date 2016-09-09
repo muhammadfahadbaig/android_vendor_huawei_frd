@@ -1,0 +1,3 @@
+/data/dataapp/HwAllBackup_Local/HwAllBackup_Local.apk
+/data/dataapp/HwMirror/HwMirror.apk
+/data/dataapp/MopriaPrintService/MopriaPrintService.apk

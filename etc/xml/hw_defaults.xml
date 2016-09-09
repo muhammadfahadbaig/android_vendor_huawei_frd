@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * Copyright (c) 2009, The Android Open Source Project
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+-->
+
+<resources>
+    <!--******************************** 1.PROTOCOL TEAM BEGIN -->
+    <!--******************************** 1.PROTOCOL TEAM END -->
+    <!--******************************** 2.APP MANUFACTURE TEAM BEGIN -->
+
+    <!--******************************** 2.APP MANUFACTURE TEAM END -->
+    <!--******************************** 3.BASEAPP TEAM BEGIN -->
+    <fraction brightness_threshold="12%"/>
+    <fraction settings.global.convert_brightnesss_factor="320%"/>
+    <!-- DTS2015110304272    z00294345 begin-->
+    <!--integer settings.global.wifi_sleep_policy="1"/-->
+    <!-- DTS2015110304272    z00294345 end-->
+    <integer settings.system.screen_brightness_mode="1"/>
+    <integer settings.system.screen_brightness="128"/>
+    <integer settings.system.screen_off_timeout="30000"/>
+    <integer show_mms_expired_status="1"/>
+    <integer hw_vibrate_on="1"/>
+    <integer vibrate_when_ringing="1"/>
+    <string colors_themes="gold,/system/themes/Gold.hwt;pink,/system/themes/Pink.hwt;white,/system/themes/Pure.hwt;black,/system/themes/Halo.hwt;blue,/system/themes/Halo.hwt"/>
+    <string hw_theme_sort="Halo##Pink##Gold##Pure"/>
+    <string no_write_sms_package="com.huawei.android.ds,com.android.mediacenter,com.huawei.hwid,com.huawei.security,com.huawei.hisuite,com.android.phone,com.huawei.remoteassistant"/>
+    <!--******************************** 3.BASEAPP TEAM END -->
+    <!--******************************** 4.MULTI-MEDIA TEAM BEGIN -->
+    <integer settings.secure.dts_mode="3"/>
+    <string back_camera_mode_rank="com.huawei.camera.model.capture.FoodMode,36,com.huawei.camera.model.capture.Panorama3DMode,37,com.huawei.camera.model.capture.panorama.back.BackPanoramaMode,38"/>
+    <string front_camera_mode_rank="com.huawei.camera.model.capture.Panorama3DMode,62"/>
+    <!--******************************** 4.MULTI-MEDIA TEAM END -->
+    <!--******************************** 5.FRAMEWORK TEAM BEGIN -->
+    <string drop_smartkey_activity="com.android.settings/.fingerprint.enrollment.FingerprintEnrollActivity;com.android.settings/.fingerprint.FingerprintSettingsActivity;com.huawei.systemmanager/.applock.password.AuthLaunchLockedAppActivity;com.huawei.hidisk/.strongbox.ui.activity.StrongBoxVerifyPassActivity;com.eg.android.AlipayGphone/com.alipay.android.app.flybird.ui.window.FlyBirdWindowActivity;com.huawei.systemmanager/.applock.password.AuthEnterAppLockActivity;com.huawei.hwasm/.HwMatchActivity"/>
+    <!--******************************** 5.FRAMEWORK TEAM END -->
+    <!--******************************** 6.DATA SERVICE TEAM BEGIN -->
+
+    <!--******************************** 6.DATA SERVICE TEAM END -->
+    <!--******************************** 7.APPLET TEAM BEGIN -->
+
+    <!--******************************** 7.APPLET TEAM END -->
+    <!--******************************** 8.CUSTOM TEAM BEGIN -->
+
+    <!--******************************** 8.CUSTOM TEAM END -->
+</resources>

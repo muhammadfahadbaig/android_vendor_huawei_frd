@@ -1,0 +1,3 @@
+/system/preloadapks/FyuseSDK/FyuseSDK.apk,priv
+/data/dataapp/WPS/WPS.apk
+/data/dataapp/Weibo/Weibo.apk

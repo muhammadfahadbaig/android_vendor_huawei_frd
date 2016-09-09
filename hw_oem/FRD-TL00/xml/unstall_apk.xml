@@ -1,0 +1,18 @@
+<?xml	version="1.0"	encoding="utf-8"	?>	
+	<tag>
+		<apk>
+		/system/delapp/HiSkyTone.apk;
+		/system/app/HwCloudDrive.apk;
+		/system/app/UEInfoCheck.apk;
+		/system/app/ChnTelecomAutoReg.apk;
+		/data/hw_init/system/app/HwBackup.apk;
+		/data/hw_init/system/app/BaiduSearch.apk;
+		/data/hw_init/system/app/HwVDrive.apk;
+		/data/hw_init/system/app/HwWallet.apk;
+		/data/hw_init/system/app/HwFansClub.apk;
+		/data/hw_init/system/app/HwHiSync.apk;
+		/system/priv-app/HiSpace.apk;
+		/data/hw_init/system/app/GameBox.apk;
+		/data/hw_init/system/app/HnReader.apk;
+		</apk>
+	</tag>

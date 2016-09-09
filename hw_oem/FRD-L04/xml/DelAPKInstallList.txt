@@ -1,0 +1,11 @@
+/data/dataapp/HwAllBackup_Local/HwAllBackup_Local.apk
+/data/dataapp/HwMirror/HwMirror.apk
+/data/dataapp/MopriaPrintService/MopriaPrintService.apk
+/data/dataapp/Facebook/Facebook.apk
+/data/dataapp/Twitter/Twitter.apk
+/data/dataapp/Shazam/Shazam.apk
+/data/dataapp/NewsRepublic/NewsRepublic.apk
+/data/dataapp/Amazon/Amazon.apk
+/data/dataapp/Amazon_Music/Amazon_Music.apk
+/data/dataapp/Booking/Booking.apk
+/data/dataapp/Lyft/Lyft.apk,nosys
